@@ -1,0 +1,85 @@
+#main {
+    text-align: center;
+    background-color: black;
+    color: pink;
+}
+
+#title {
+    justify-content: center;
+    background-color: pink;
+    color: white;
+    font-family: monospace;
+    font-size: 25;
+}
+
+#img-div {}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: 500px;
+    margin: auto;
+
+}
+
+#img-caption {
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+    color: pink;
+    font-family: monospace;
+    font-size: 25;
+}
+
+#tribute-info {}
+
+#tribute-link {
+    color: pink;
+    font-family: mosospace;
+    font-size: 30;
+}
+
+#CareerAchvmnts {
+    font-family: helvetica;
+    font-size: 11;
+    text-align: left;
+}
+
+#list {}
+
+.main {
+    background-color: black;
+}
+
+.header {
+    border-radius: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+    top: 10px;
+}
+
+.img {
+    border-style: solid;
+    border-radius: 20px;
+    border-color: pink;
+    position: relative;
+    right: 5px;
+}
+
+.fig {}
+
+.achvmnts {
+    border-style: dashed;
+    border-color: pink;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: auto;
+}
+
+.list {
+    position: relative;
+    right: 20px;
+}
+
+.link {}
