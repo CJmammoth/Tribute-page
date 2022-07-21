@@ -28,7 +28,8 @@
     background-color: black;
     color: pink;
     font-family: monospace;
-    font-size: 25;
+    font-size: 50px;
+    margin: 10px 0;
 }
 
 #tribute-info {}
